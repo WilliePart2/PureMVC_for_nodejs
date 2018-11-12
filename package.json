@@ -1,0 +1,25 @@
+{
+  "name": "diet_planing_puremvc",
+  "version": "0.0.1",
+  "description": "Litle web application for planing your diet schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi willie =)"
+  },
+  "keywords": [
+    "diet",
+    "planing"
+  ],
+  "author": "WilliePart2",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.6",
+    "ts-node": "^7.0.1"
+  },
+  "dependencies": {
+    "@types/koa": "^2.0.46",
+    "@types/koa-router": "^7.0.33",
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0"
+  }
+}
